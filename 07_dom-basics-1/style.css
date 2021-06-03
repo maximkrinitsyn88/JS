@@ -1,0 +1,14 @@
+.input-seconds {
+  padding: 10px;
+  color: blue;
+}
+
+.start-timer {
+  padding: 10px;
+}
+
+.timer {
+  padding-top: 20px;
+  padding-left: 100px;
+  color: red;
+}
